@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LeaderBoad</string>
+    <string name="gads">Google Africa Developer Scholarship</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="join_learnig_hours_string">\" learning hours,\"</string>
+    <string name="join_skill_iq_string">\" skill IQ Score,\"</string>
+    <string name="cancle_content_descripion">cancle</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="yes_confirm">Yes</string>
+    <string name="string_yes_confirm">Yes</string>
+    <string name="submit">Submit</string>
+    <string name="leaderboad">LEADERBOAD</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="google_africa_developer_scholarship">Google Africa Developer Scholarship</string>
+    <string name="back">back</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="image_budge">image_budge</string>
+    <string name="hours_engaged_country">Hours engaged,country</string>
+    <string name="string_hours_engaged_country">Hours Engaged</string>
+    <string name="skill_iq_badge">skill iq badge</string>
+    <string name="string_skill_iq_badge">skill iq bagde</string>
+    <string name="student_name">Student Name</string>
+    <string name="string_student_name">student name</string>
+    <string name="skilliq_country">SkillIQ,country</string>
+    <string name="string_skilliq_country">skilliq</string>
+    <string name="string_string_skilliq_country">skill iq</string>
+</resources>
